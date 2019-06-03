@@ -10,6 +10,10 @@
 
 <body>
     <h1>Hello World!</h1>
+    <ul>
+        <li>nama = fuad</li>
+        <li>kelas = dua</li>
+    </ul>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia illum suscipit ipsam similique vitae iste nobis, nulla voluptatum totam distinctio. Dolorem ad quod maxime, fugiat nam at necessitatibus suscipit fuga?</p>
 
 
